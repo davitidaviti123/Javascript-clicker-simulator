@@ -1,0 +1,25 @@
+body { 
+    background-color: rgb(63, 195, 200);
+    text-align: center;
+}
+button { 
+    width: 50px;
+    border-radius: 5px;
+    background-color: azure;
+    text-align: center;
+    cursor: pointer;
+    height: 50px;
+    font-size: 32px;
+}
+#d1 {
+    color: rgb(56, 192, 56);
+}
+#d2 {
+    color: red;
+}
+p {
+    font-size: 50px;
+}
+footer {
+    font-size: 20px;
+}
